@@ -4,7 +4,7 @@
 - Desejo cursar Ciencia da Computação ano que vem 👌
 - Advanced English 👀
 
-### Linguagens e ferramentas que já possuo conhecimento:
+### Ferramentas que já possuo conhecimento:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -14,7 +14,7 @@
 
 <br />
 
-### Linguagens e ferramentas na minha lista de estudos:
+### Ferramentas na minha lista de estudos:
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
