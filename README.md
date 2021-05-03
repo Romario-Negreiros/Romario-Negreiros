@@ -2,7 +2,7 @@
 
 - Atualmente estou estudando CSS ( flexbox ) e JavaScript ✨
 - Desejo cursar Ciencia da Computação ano que vem 👌
-- I speak English 👀
+- Advanced English 👀
 
 ### Linguagens e ferramentas que já possuo conhecimento:
 
