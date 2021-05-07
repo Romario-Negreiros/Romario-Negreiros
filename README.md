@@ -27,7 +27,7 @@
 <br />
 
 ### Github stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact"
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact"
  />
 <img align="left" alt="Romario Negreiros' github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Romario-Negreiros&show_icons=true&hide_border=true" />
 
