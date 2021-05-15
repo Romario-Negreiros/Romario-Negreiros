@@ -1,6 +1,7 @@
+<div align="center">
 ### Opa, beleza? Meu nome é Romario, tenho 16 anos e estudo programação desde 12/março 2021, com o objetivo de inicar como programador front-end 👋
 
-- Atualmente estou estudando CSS ( flexbox ) e JavaScript ✨
+- Atualmente estou estudando CSS ( grid-layout ) e JavaScript ✨
 - Desejo fazer Ciencia da Computação ano que vem 👌
 - Advanced English 👀
 
@@ -30,5 +31,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact"
  />
 <img align="left" alt="Romario Negreiros' github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Romario-Negreiros&show_icons=true&hide_border=true" />
+</div>
 
 
