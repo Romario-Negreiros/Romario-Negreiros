@@ -1,6 +1,6 @@
 ### Opa, beleza? Meu nome é Romario, tenho 16 anos e estudo programação desde 12/março 2021, com o objetivo de inicar como programador front-end 👋
 
-- Atualmente estou estudando PHP e JavaScript ✨
+- Atualmente estou estudando React JS e JavaScript ✨
 - Desejo fazer Ciencia da Computação ano que vem 👌
 - Advanced English 👀
 
