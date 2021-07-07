@@ -1,6 +1,6 @@
 ### Opa, beleza? Meu nome é Romario, tenho 17 anos e estudo programação desde 12/março 2021, com o objetivo de iniciar como programador front-end 👋
 
-- Atualmente estou estudando React JS e JavaScript ✨
+- Atualmente estou estudando React e Redux ✨
 - Buscando sempre fazer novos projetos 💪
 - Advanced English 👀
 
@@ -13,6 +13,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
 <br />
 
@@ -30,7 +31,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact"
  />
  
- 
+ ### ![Portfolio](http://meu-portfolio-sand.vercel.app/)
 
 
 
