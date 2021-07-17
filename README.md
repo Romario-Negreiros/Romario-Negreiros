@@ -28,7 +28,7 @@
 <br />
 
 ### Github stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact"
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&color=black"
  />
  
  ### [Meu portfólio](http://meu-portfolio-sand.vercel.app/)
