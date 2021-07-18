@@ -1,8 +1,8 @@
-### Opa, beleza? Meu nome é Romario, tenho 17 anos e estudo programação desde 12/março 2021, com o objetivo de iniciar como programador front-end 👋
+### Eai, tranquilo? Me chamo Romario, tenho 17 anos, e sou fascinado por tecnologia, e, principalmente, por programação. 👋
 
-- Atualmente estou estudando React e Redux ✨
-- Buscando sempre fazer novos projetos 💪
-- Advanced English 👀
+- Atualmente estou estudando React e SASS✨
+- Estou buscando sempre fazer novos projetos para por em pratica os meus estudos💪
+- Advanced English👀
 
 ### Ferramentas que já possuo conhecimento:
 
@@ -18,17 +18,11 @@
 
 <br />
 
-### Ferramentas na minha lista de estudos:
-
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="NODE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<br />
-
 ### Github stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact"
  />
+ 
+ 
+ * nromario482@gmail.com
  
  ### [Meu portfólio](http://meu-portfolio-sand.vercel.app/)
