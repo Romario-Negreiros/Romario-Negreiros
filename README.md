@@ -1,4 +1,4 @@
-### Eai, tranquilo? Me chamo Romario, tenho 17 anos, e sou fascinado por tecnologia, e, principalmente, por programação. 👋
+### Eai, tranquilo? Me chamo Romario, tenho 17 anos e sou fascinado por tecnologia e, principalmente, por programação. 👋
 
 - Atualmente estou estudando React e TypeScript ✨
 - Estou buscando sempre fazer novos projetos para por em pratica os meus estudos 💪
@@ -10,10 +10,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
@@ -23,8 +21,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact"
  />
  
- ### Contatos
+ ### Contato
  * nromario482@gmail.com
  
  ### Portfólio
- * [Link](https://meu-portfolio-sand.vercel.app)
+ * [Link](https://romario-negreiros.github.io/Romario-frontend/)
