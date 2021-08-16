@@ -1,6 +1,6 @@
 ### Eai, tranquilo? Me chamo Romario, tenho 17 anos e sou fascinado por tecnologia e, principalmente, por programação. 👋
 
-- Atualmente estou estudando React e TypeScript ✨
+- Atualmente estou estudando Jquery ✨
 - Estou buscando sempre fazer novos projetos para por em pratica os meus estudos 💪
 - Advanced English 👀
 
