@@ -1,7 +1,7 @@
 ### What's up, my name is Romario, I'm 17 years old and I'm fascinated by technology, specially, by programming. 👋
 
-- Currently, I'm studying redux ✨
-- I'm always looking for making new projects to practice my studies 💪
+- Currently, I'm learning redux ✨
+- Always doing projects to practice my studies 💪
 
 ### Tools I already have knowledge
 
@@ -14,6 +14,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
 <br />
 
