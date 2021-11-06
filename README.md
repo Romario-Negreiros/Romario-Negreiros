@@ -1,4 +1,4 @@
-### What's up, my name is Romario, I'm 17 years old and I'm fascinated by technology, specially, by programming. 👋
+### What's up? My name is Romario, I'm 17 years old and I'm fascinated by technology, specially, by programming. 👋
 
 - Currently, I'm learning redux ✨
 - Always doing projects to practice my studies 💪
