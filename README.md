@@ -1,13 +1,11 @@
 ### What's up? My name is Romario, I'm 17 years old and I'm fascinated by technology, specially, by programming. 👋
 
+- Currently, I'm learning redux ✨
+- Always doing projects to practice my studies 💪
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romario-Negreiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&langs_count=7&theme=dracula"/>
-
- <br />
- 
-- Currently, I'm learning redux ✨
-- Always doing projects to practice my studies 💪
  
  <br />
 
