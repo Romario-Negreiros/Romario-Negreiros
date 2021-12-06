@@ -1,14 +1,13 @@
-### What's up? My name is Romario, I'm 17 years old and I'm fascinated by technology, specially, by programming 👋
+<div align="center">
+<h2>hat's up? My name is Romario, I'm 17 years old and I'm fascinated by technology, specially, by programming 👋</h2>
 
 <br />
 
-- Currently, I'm learning redux ✨
+- Currently, I'm learning redux and building FireSwift, a social media app ✨
 - Always doing projects to practice my studies 💪
 
 <br />
 
-<div align="center">
-  
   <div style="display: inline-block">
     <a href="https://romario-negreiros.github.io/Romario-frontend/">
       <img alt="Website" title="Portfólio" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://romario-negreiros.github.io/Romario-frontend/"/>
@@ -25,7 +24,7 @@
   </div>
   
  <br />
-  
+  <h2>My github infos</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romario-Negreiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Romario Negreiros Github Info"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&langs_count=7&theme=dracula" alt="Romario Negreiros Most Used Languages"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romario-Negreiros&theme=dracula" alt="Romario-Negreiros Stats"/>
@@ -33,6 +32,7 @@
 <br />
 <br />
 
+ <h2>Tools 🛠</h2>
  <div style="display: inline-block">
   <img align="center" alt="Romario-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Romario-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -45,4 +45,7 @@
   
 <br />
 
- </div>
+  <h2>Seekers 🔍</h2>
+
+
+</div>
