@@ -43,7 +43,7 @@
   <img align="center" alt="Romario-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
  </div>
   
-<hr />
+<br />
 
   <h2>Snoopers 🔍</h2>
   <img src="https://profile-counter.glitch.me/Romario-Negreiros/count.svg" />
