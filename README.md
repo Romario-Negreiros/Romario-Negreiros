@@ -1,5 +1,5 @@
 <div align="center">
-<h2>hat's up? My name is Romario, I'm 17 years old and I'm fascinated by technology, specially, by programming 👋</h2>
+<h2>What's up? My name is Romario, I'm 17 years old and I'm fascinated by technology, specially, by programming 👋</h2>
 
 <br />
 
@@ -43,9 +43,9 @@
   <img align="center" alt="Romario-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
  </div>
   
-<br />
+<hr />
 
-  <h2>Seekers 🔍</h2>
-
-
+  <h2>Snoopers 🔍</h2>
+  <img src="https://profile-counter.glitch.me/Romario-Negreiros/count.svg" />
 </div>
+                                                                     
