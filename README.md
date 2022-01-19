@@ -3,7 +3,7 @@
 
 <br />
 
-- Currently, I'm learning redux and building FireSwift, a social media app ✨
+- Currently, I'm learning node.js ✨
 - Always doing projects to practice my studies 💪
 
 <br />
