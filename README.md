@@ -3,7 +3,7 @@
 
 <br />
 
-- Currently, I'm learning node.js ✨
+- Currently, I'm learning node.js and building YourJob, my 1st fullstack website ✨
 - Always doing projects to practice my studies 💪
 
 <br />
@@ -41,7 +41,8 @@
   <img align="center" alt="Romario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Romario-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Romario-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Romario-JQuert" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Romario-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Romario-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  </div>
   
 <br />
