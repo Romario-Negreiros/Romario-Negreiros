@@ -3,8 +3,8 @@
 
 <br />
 
-- Currently, I'm learning node.js ✨
-- Always doing projects to practice my studies 💪
+Currently, I'm learning node.js, and building yourjob, my 1st fullstack project ✨
+Always doing projects to practice my studies 💪
 
 <br />
 
@@ -45,7 +45,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romario-Negreiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Romario Negreiros Github Info"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&langs_count=7&theme=dracula" alt="Romario Negreiros Most Used Languages"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romario-Negreiros&theme=dracula" alt="Romario-Negreiros Stats"/>
-  <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Romario-Negreiros&theme=dracula" alt="Romario-Negreiros streak stats" />
+  <img width="100%" height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Romario-Negreiros&theme=dracula" alt="Romario-Negreiros streak stats" />
 
 <br />
 
