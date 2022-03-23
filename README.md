@@ -23,16 +23,9 @@
     </a>
   </div>
   
- <br />
-  <h2>Github infos</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romario-Negreiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Romario Negreiros Github Info"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&langs_count=7&theme=dracula" alt="Romario Negreiros Most Used Languages"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romario-Negreiros&theme=dracula" alt="Romario-Negreiros Stats"/>
- 
-<br />
 <br />
 
- <h2>Tools 🛠</h2>
+<h2>Tools 🛠</h2>
  <div style="display: inline-block">
   <img align="center" alt="Romario-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Romario-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -46,7 +39,14 @@
   <img align="center" alt="Romario-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Romario-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
  </div>
-  
+ 
+<br />
+  <h2>Github infos</h2>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romario-Negreiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Romario Negreiros Github Info"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&langs_count=7&theme=dracula" alt="Romario Negreiros Most Used Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romario-Negreiros&theme=dracula" alt="Romario-Negreiros Stats"/>
+  <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Romario-Negreiros&theme=dracula" alt="Romario-Negreiros streak stats" />
+
 <br />
 
   <h2>Snoopers 🔍</h2>
