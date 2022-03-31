@@ -3,7 +3,7 @@
 
 <br />
 
-Currently, I'm learning node.js, and building yourjob, my 1st fullstack project ✨
+Currently, I'm learning node.js, and building yourjob, my 1st fullstack project ✨ <br />
 Always doing projects to practice my studies 💪
 
 <br />
