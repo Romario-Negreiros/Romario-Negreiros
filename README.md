@@ -3,7 +3,6 @@
 
 <br />
 
-Currently, I'm learning node.js ✨ <br />
 Always doing projects to practice my studies 💪
 
 <br />
