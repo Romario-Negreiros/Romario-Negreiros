@@ -1,22 +1,22 @@
 <div align="center">
 <h2>What's up?</h2>
   
-<p>My name is Romario Negreiros Baldarenas Silva, I'm 17 years old and I'm fascinated by technology, specially, by programming, I'm also
-  pursuing a bachelor's degree in computer science 👨‍🎓</p>
-
-<br />
-
-<p>Currently learning next.js 📘 <br />
-  Always doing projects to practice my studies 💪</p>
+<p>
+  My name is Romario Negreiros Baldarenas Silva, I'm 17 years old and I'm fascinated by technology, specially, by programming, I'm also
+  pursuing a bachelor's degree in computer science 👨‍🎓 <br />
+  Currently learning next.js 📘 <br />
+  Always doing projects to practice my studies 💪
+</p>
 
 <br />
   
   <div align="center">
-  <a href="https://github.com/Romario-Negreiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romario-Negreiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romario-       Negreiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 
+  <br />
+  
   <div style="display: inline-block">
     <a href="https://romario-negreiros.github.io/Romario-frontend/">
       <img alt="Website" title="Portfólio" src="https://img.shields.io/badge/-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://romario-negreiros.github.io/Romario-frontend/"/>
