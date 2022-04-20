@@ -1,14 +1,12 @@
 <div align="center">
 <h2>What's up?</h2>
   
----
-  
 My name is Romario Negreiros Baldarenas Silva, I'm 17 years old and I'm fascinated by technology, specially, by programming, I'm also
 pursuing a bachelor's degree in computer science 👨‍🎓
 
 <br />
 
-Currently learning next.js 📘
+Currently learning next.js 📘 <br />
 Always doing projects to practice my studies 💪
 
 <br />
