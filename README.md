@@ -3,15 +3,15 @@
   
 <p>
   My name is Romario Negreiros Baldarenas Silva, I'm 17 years old and I'm fascinated by technology, specially, by programming, I'm also
-  pursuing a bachelor's degree in computer science 👨‍🎓 <br />
-  Currently learning next.js 📘 <br />
+  pursuing a bachelor's degree in computer science 👨‍🎓 <br /> <br />
+  Currently learning next.js 📘 <br /> <br />
   Always doing projects to practice my studies 💪
 </p>
 
 <br />
   
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romario-       Negreiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romario-Negreiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 
