@@ -1,8 +1,14 @@
 <div align="center">
-<h2>What's up? My name is Romario, I'm 17 years old and I'm fascinated by technology, specially, by programming 👋</h2>
+<h2>What's up?</h2>
+  
+---
+  
+My name is Romario Negreiros Baldarenas Silva, I'm 17 years old and I'm fascinated by technology, specially, by programming, I'm also
+pursuing a bachelor's degree in computer science 👨‍🎓
 
 <br />
 
+Currently learning next.js 📘
 Always doing projects to practice my studies 💪
 
 <br />
