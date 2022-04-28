@@ -10,7 +10,7 @@
 
 <br />
   
-    <div style="display: inline-block">
+<div style="display: inline-block">
     <a href="https://romario-negreiros.github.io/Romario-frontend/">
       <img alt="Website" title="Portfólio" src="https://img.shields.io/badge/-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://romario-negreiros.github.io/Romario-frontend/"/>
     </a>
@@ -18,13 +18,13 @@
       <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nromario482@gmail.com"/>
     </a>
       <a href="https://www.linkedin.com/in/romario-negreiros-8591b6214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+</div>
   
-  <div style="display: inline-block">
+<div style="display: inline-block">
     <a href="https://github.com/Romario-Negreiros">
       <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Romario-Negreiros?style=for-the-badge&logo=github&label=Follow"/>
     </a>
-  </div>
+</div>
   
   <br />
   
@@ -33,8 +33,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 
-  <br />
-  
 <br />
 
 <h2>Tools 🛠</h2>
