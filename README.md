@@ -10,14 +10,7 @@
 
 <br />
   
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romario-Negreiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
-
-  <br />
-  
-  <div style="display: inline-block">
+    <div style="display: inline-block">
     <a href="https://romario-negreiros.github.io/Romario-frontend/">
       <img alt="Website" title="Portfólio" src="https://img.shields.io/badge/-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://romario-negreiros.github.io/Romario-frontend/"/>
     </a>
@@ -32,6 +25,15 @@
       <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Romario-Negreiros?style=for-the-badge&logo=github&label=Follow"/>
     </a>
   </div>
+  
+  <br />
+  
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romario-Negreiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-Negreiros&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+
+  <br />
   
 <br />
 
