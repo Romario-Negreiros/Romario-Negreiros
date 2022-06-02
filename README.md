@@ -2,7 +2,7 @@
 <h2>What's up?</h2>
   
 <p>
-  My name is Romario Negreiros Baldarenas Silva, I'm 17 years old and I'm fascinated by technology, specially, by programming, I'm also
+  My name is Romario Negreiros Baldarenas Silva, I'm 18 years old and I'm fascinated by technology, specially, by programming, I'm also
   pursuing a bachelor's degree in computer science 👨‍🎓 <br /> <br />
   Currently learning next.js 📘 <br /> <br />
   Always doing projects to practice my studies 💪
