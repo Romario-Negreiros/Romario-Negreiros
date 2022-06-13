@@ -1,11 +1,9 @@
 <div align="center">
-<h2>What's up?</h2>
+<h2>Eai, beleza?</h2>
   
 <p>
-  My name is Romario Negreiros Baldarenas Silva, I'm 18 years old and I'm fascinated by technology, specially, by programming, I'm also
-  pursuing a bachelor's degree in computer science 👨‍🎓 <br /> <br />
-  Currently learning next.js 📘 <br /> <br />
-  Always doing projects to practice my studies 💪
+  Meu nome é Romario Negreiros Baldarenas da Silva, sou fascinado por tecnologia, principalmente por programação, e estou cursando um bacharelado em Ciência da Computação na UFABC. 👨‍🎓 <br /> <br />
+  Estou sempre fazendo projetos para praticar meus estudos. 💪
 </p>
 
 <br />
