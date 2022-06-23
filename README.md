@@ -33,7 +33,7 @@
 
 <br />
 
-<h2>Tools 🛠</h2>
+<h2>Conhecimentos 🛠</h2>
  <div style="display: inline-block">
   <img align="center" alt="Romario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Romario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -48,6 +48,6 @@
   </div>
 <br />
 
-  <h2>Snoopers 🔍</h2>
+  <h2>Visitantes 🔍</h2>
   <img src="https://profile-counter.glitch.me/Romario-Negreiros/count.svg" />
 </div>
