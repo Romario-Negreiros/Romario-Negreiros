@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Eai, beleza?</h2>
+<h2>Eai, beleza??</h2>
   
 <p>
   Meu nome é Romario Negreiros Baldarenas da Silva, sou fascinado por tecnologia, principalmente por programação, e estou cursando um bacharelado em Ciência da Computação na UFABC. 👨‍🎓 <br /> <br />
