@@ -4,7 +4,7 @@
 <p>
   Meu nome é Romario Negreiros Baldarenas da Silva, sou fascinado por tecnologia, principalmente por programação, e estou cursando um bacharelado em Ciência da Computação na UFABC. 👨‍🎓 <br /> <br />
   Estou sempre fazendo projetos para praticar meus estudos. 💪 <br />
-  Atualmente estou estudando python através do canal CFBCursos no YouTube e construindo o site retrogames. 🍻🐍
+  Atualmente estou estudando bootstrap e construindo o site retrogames. 🍻🐍
 </p>
 
 <br />
