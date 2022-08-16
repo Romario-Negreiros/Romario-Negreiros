@@ -4,7 +4,7 @@
 <p>
   Meu nome é Romario Negreiros Baldarenas da Silva, sou fascinado por tecnologia, principalmente por programação, e estou cursando um bacharelado em Ciência e Tecnologia na UFABC. 👨‍🎓 <br /> <br />
   Estou sempre fazendo projetos para praticar meus estudos. 💪 <br />
-  Atualmente estou estudando java e refatorando algum de meus antigos projetos. 🍻
+  Atualmente estou estudando Java. 🍻
 </p>
 
 <br />
