@@ -16,7 +16,7 @@
     <a href="mailto:nromario482@gmail.com">
       <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nromario482@gmail.com"/>
     </a>
-      <a href="https://www.linkedin.com/in/romario-negreiros-8591b6214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://www.linkedin.com/in/romario-negreiros-baldarenas-da-silva-8591b6214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
 <div style="display: inline-block">
