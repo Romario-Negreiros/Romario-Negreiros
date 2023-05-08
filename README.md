@@ -3,8 +3,6 @@
   
 <p>
   Meu nome é Romario Negreiros Baldarenas da Silva, sou fascinado por tecnologia, principalmente por programação, e estou cursando um bacharelado em Ciência e Tecnologia na UFABC. 👨‍🎓 <br /> <br />
-  Recuperando a frequência de quadradinhos verdes. 🙌 <br />
-  Construindo o nextDashboard. 💪
 </p>
 
 <br />
