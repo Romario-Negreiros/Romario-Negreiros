@@ -2,7 +2,7 @@
 <h2>Eai, beleza??</h2>
   
 <p>
-  Meu nome é Romario Negreiros Baldarenas da Silva, sou fascinado por tecnologia, principalmente por programação, e estou cursando um bacharelado em Ciência e Tecnologia na UFABC. 👨‍🎓 <br /> <br />
+  Meu nome é Romario, sou fascinado por tecnologia, principalmente por programação, e estou cursando um bacharelado em Ciência e Tecnologia na UFABC. 👨‍🎓 <br /> <br />
 </p>
 
 <br />
