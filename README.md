@@ -2,14 +2,14 @@
 <h2>Eai, beleza??</h2>
   
 <p>
-  Meu nome é Romario, sou fascinado por tecnologia, principalmente por programação, e estou cursando um bacharelado em Ciência e Tecnologia na UFABC. 👨‍🎓 <br /> <br />
+  Meu nome é Romario, sou fascinado por tecnologia, principalmente por programação, no momento estou cursando um bacharelado em Ciência e Tecnologia na UFABC e procurando minha experiência profissional como desenvolvedor de software. <br /> <br />
 </p>
 
 <br />
   
 <div style="display: inline-block">
     <a href="https://romario-negreiros.github.io/Portfolio/">
-      <img alt="Website" title="Portfólio" src="https://img.shields.io/badge/-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://romario-negreiros.github.io/Romario-frontend/"/>
+      <img alt="Website" title="Portfólio" src="https://img.shields.io/badge/-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://romario-negreiros.github.io/Portfolio/"/>
     </a>
     <a href="mailto:nromario482@gmail.com">
       <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nromario482@gmail.com"/>
