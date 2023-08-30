@@ -2,7 +2,7 @@
 <h2>Eai, beleza??</h2>
   
 <p>
-  Meu nome é Romario, sou fascinado por tecnologia, principalmente por programação, no momento estou cursando um bacharelado em Ciência e Tecnologia na UFABC e procurando minha experiência profissional como desenvolvedor de software. <br /> <br />
+  Meu nome é Romario, sou fascinado por tecnologia e principalmente por programação, no momento estou cursando um bacharelado em Ciência e Tecnologia na UFABC e procurando minha experiência profissional como desenvolvedor de software. <br /> <br />
 </p>
 
 <br />
