@@ -2,7 +2,7 @@
 <h2>Eai, beleza??</h2>
   
 <p>
-  Meu nome é Romario, sou fascinado por tecnologia e principalmente por programação, no momento estou cursando um bacharelado em Ciência e Tecnologia na UFABC e estagiando na Prefeitura de Santo André.<br /> <br />
+  Meu nome é Romario, sou fascinado por tecnologia e principalmente por programação, no momento estou cursando um Bacharelado em Ciência e Tecnologia na UFABC e estagiando na Prefeitura de Santo André.<br /> <br />
 </p>
 
 <br />
