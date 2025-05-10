@@ -2,7 +2,7 @@
 <h2>Eai, beleza?</h2>
   
 <p>
-  Me chamo Romario, sou fascinado por tecnologia e principalmente por programação, no momento estou cursando um Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC e trabalhando como analista de sistemas junior na Tecnocomp.<br /> <br />
+  Me chamo Romario, sou fascinado por tecnologia e principalmente por programação, no momento estou cursando um Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC e trabalhando como analista de sistemas junior pela Fundação Santo André.<br /> <br />
 </p>
 
 <br />
